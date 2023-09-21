@@ -11,3 +11,11 @@ changes, with commit message "message"
 * `git log` - list local commit history
 * `git log --online` - list local commit history in
 compact format
+
+## Branching Commands
+* `git branch` - list local branches
+* `git branch -m newName` - rename current branch to `
+newName`
+* `git branch branchName` - create local branch `branchName`
+* `git checkout branchName` - switch to local branch `
+branchName`
