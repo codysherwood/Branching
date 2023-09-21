@@ -1,13 +1,7 @@
 # GitCheat Sheet and Branching Practice
 ## Overview
-
 Common command reference, and practicing with commits and 
 branches.
-
-
-Stuff Added By Rob1 in Main
-More Main Stuff
-
 
 ## Basic Commands
 * `git init` - initialize local git repo
@@ -20,6 +14,8 @@ changes, with commit message "message"
 * `git log` - list local commit history
 * `git log --online` - list local commit history in
 compact format
+* `git log --pretty` - list local commit history in
+pretty format
 
 ## Branching Commands
 * `git branch` - list local branches
