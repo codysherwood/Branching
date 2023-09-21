@@ -1,4 +1,8 @@
 # GitCheat Sheet and Branching Practice
+## Overview
+
+Common command reference, and practicing with commits and 
+branches.
 
 ## Basic Commands
 * `git init` - initialize local git repo
