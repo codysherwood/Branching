@@ -1,4 +1,8 @@
 # GitCheat Sheet and Branching Practice
+## Overview
+
+Common command reference, and practicing with commits and 
+branches.
 
 ## Basic Commands
 * `git init` - initialize local git repo
@@ -11,3 +15,16 @@ changes, with commit message "message"
 * `git log` - list local commit history
 * `git log --online` - list local commit history in
 compact format
+
+## Branching Commands
+* `git branch` - list local branches
+* `git branch -m newName` - rename current branch to `
+newName`
+* `git branch branchName` - create local branch `branchName`
+* `git checkout branchName` - switch to local branch `
+branchName`
+
+##Remote Commands
+* `git remote add origin url` - configure `url` asa remote
+repo, with alias `origin`
+* `git push` 
