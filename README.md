@@ -4,6 +4,9 @@
 Common command reference, and practicing with commits and 
 branches.
 
+Stuff Added By Rob1 in Main
+More Main Stuff
+
 ## Basic Commands
 * `git init` - initialize local git repo
 * `git add fileName` - stage changed file `fileName`
@@ -28,3 +31,4 @@ branchName`
 * `git remote add origin url` - configure `url` asa remote
 repo, with alias `origin`
 * `git push` 
+Other stuff added on main
